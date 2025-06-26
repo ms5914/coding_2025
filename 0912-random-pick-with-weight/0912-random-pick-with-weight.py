@@ -20,6 +20,7 @@ class Solution(object):
         return bisect.bisect_left(self.array, random.randint(1, self.array[-1]))
 
 
+
         
 
 
