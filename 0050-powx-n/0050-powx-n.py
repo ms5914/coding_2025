@@ -10,9 +10,9 @@ class Solution:
             if n%2 == 1:
                 n = n-1
                 result = result*x
-            else:
-                n = n//2
-                x = x*x
+    
+            n = n//2
+            x = x*x
         return result
 
         
