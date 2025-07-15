@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Tree
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
