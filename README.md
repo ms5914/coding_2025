@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ms5914/coding_2025/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
+| [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 ## Stack
 |  |
