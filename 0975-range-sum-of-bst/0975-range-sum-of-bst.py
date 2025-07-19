@@ -17,8 +17,16 @@ class Solution:
             range_sum = 0
             if root.val <= high and root.val >= low:
                 range_sum+=root.val
-            range_sum+=find_sum(root.left)
-            range_sum+=find_sum(root.right)
+                range_sum+=find_sum(root.left)
+                range_sum+=find_sum(root.right)
+                
+            if root.val > high:
+                range_sum+=find_sum(root.left)
+            if root.val < low:
+                range_sum+=find_sum(root.right)
+            
+            
+            
             return range_sum
         
         return find_sum(root)
