@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ms5914/coding_2025/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ms5914/coding_2025/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
