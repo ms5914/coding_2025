@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ms5914/coding_2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ms5914/coding_2025/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ms5914/coding_2025/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ms5914/coding_2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ms5914/coding_2025/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
