@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ms5914/coding_2025/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ms5914/coding_2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ms5914/coding_2025/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ms5914/coding_2025/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ms5914/coding_2025/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
