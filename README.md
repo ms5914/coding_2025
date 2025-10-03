@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ms5914/coding_2025/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ms5914/coding_2025/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
