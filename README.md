@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ms5914/coding_2025/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Backtracking
