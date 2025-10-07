@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
+| [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 ## Stack
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ms5914/coding_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ms5914/coding_2025/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 ## Monotonic Stack
 |  |
 | ------- |
