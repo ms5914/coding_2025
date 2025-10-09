@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ms5914/coding_2025/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Heap (Priority Queue)
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ms5914/coding_2025/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ms5914/coding_2025/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 ## Prefix Sum
@@ -237,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ms5914/coding_2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ms5914/coding_2025/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
