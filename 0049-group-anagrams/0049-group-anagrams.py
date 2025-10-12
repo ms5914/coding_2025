@@ -5,11 +5,6 @@ class Solution:
             ct = Counter(st)
             hm[tuple(sorted(ct.items()))].append(st)
         
-        result = []
-        print(hm)
-        for val in hm.values():
-            result.append(val)
-        return result
-            
+        return list(hm.values())
             
         
