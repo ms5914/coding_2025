@@ -5,7 +5,6 @@ class Solution:
             return "1"
         
         def say(s):
-            print(s)
             prev = s[0]
             count = 1
             li = []
