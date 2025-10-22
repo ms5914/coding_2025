@@ -14,6 +14,8 @@ class Solution:
         #         temp = temp.left
         #     return temp
         
+
+        #It's very similar to binary search remember that.
         succ = None
         def find_successor(root, p):
             if not root:
