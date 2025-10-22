@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ms5914/coding_2025/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ms5914/coding_2025/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ms5914/coding_2025/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ms5914/coding_2025/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
 ## Matrix
