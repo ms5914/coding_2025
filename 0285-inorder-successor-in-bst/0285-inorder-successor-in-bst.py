@@ -8,11 +8,11 @@
 class Solution:
     def inorderSuccessor(self, root: TreeNode, p: TreeNode) -> Optional[TreeNode]:
         
-        if p.right:
-            temp = p.right
-            while temp.left:
-                temp = temp.left
-            return temp
+        # if p.right:
+        #     temp = p.right
+        #     while temp.left:
+        #         temp = temp.left
+        #     return temp
         
         succ = None
         def find_successor(root, p):
