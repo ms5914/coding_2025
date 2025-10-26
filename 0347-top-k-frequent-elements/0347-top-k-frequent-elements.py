@@ -27,7 +27,7 @@ class Solution:
             takes its place. 
             """
             # base case: the list contains only one element
-            if left >= right: 
+            if left == right: 
                 return
 
             print(left, right)
@@ -54,6 +54,6 @@ class Solution:
         # (n - k)th less frequent element takes its place (n - k) in a sorted array. 
         # All elements on the left are less frequent.
         # All the elements on the right are more frequent.  
-        quickselect(0, n - 1, n - k-1)
+        quickselect(0, n - 1, n - k)
         # Return top k frequent elements
         return unique[n - k:]
