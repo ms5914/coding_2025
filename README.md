@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ms5914/coding_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0162-find-peak-element](https://github.com/ms5914/coding_2025/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/ms5914/coding_2025/tree/master/0163-missing-ranges) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ms5914/coding_2025/tree/master/0198-house-robber) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ms5914/coding_2025/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
