@@ -6,8 +6,6 @@ class Solution:
             index = random.randint(p, r)
             pivot_ele = nums[index]
             nums[r], nums[index] = nums[index], nums[r]
-            
-            
             less_ind = p
             for ind in range(p, r):
                 on_left = random.randint(0, 1) == 1
