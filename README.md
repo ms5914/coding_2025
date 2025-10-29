@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/ms5914/coding_2025/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Stack
 |  |
 | ------- |
