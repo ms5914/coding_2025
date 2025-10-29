@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ms5914/coding_2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ms5914/coding_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
 |  |
 | ------- |
