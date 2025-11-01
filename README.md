@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ms5914/coding_2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ms5914/coding_2025/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ms5914/coding_2025/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ms5914/coding_2025/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ms5914/coding_2025/tree/master/0073-set-matrix-zeroes) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ms5914/coding_2025/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ms5914/coding_2025/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ms5914/coding_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
