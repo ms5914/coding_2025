@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ms5914/coding_2025/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ms5914/coding_2025/tree/master/0334-increasing-triplet-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ms5914/coding_2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ms5914/coding_2025/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ms5914/coding_2025/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ms5914/coding_2025/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
