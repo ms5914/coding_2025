@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ms5914/coding_2025/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ms5914/coding_2025/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ms5914/coding_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
 | [0339-nested-list-weight-sum](https://github.com/ms5914/coding_2025/tree/master/0339-nested-list-weight-sum) |
@@ -283,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/ms5914/coding_2025/tree/master/0251-flatten-2d-vector) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
 ## Queue
 |  |
