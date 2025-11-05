@@ -4,18 +4,17 @@ class Solution:
             return 0
         elif x == 1 or x == 2:
             return 1
-        
+
         low = 2
-        high = x//2
+        high = x // 2
 
-        while low<high:
-            mid = low + (high-low+1)//2
+        while low < high:
+            mid = low + (high - low + 1) // 2
 
-            if mid*mid == x:
+            if mid * mid == x:
                 return mid
-            elif mid*mid < x:
+            elif mid * mid < x:
                 low = mid
             else:
-                high = mid-1
-        return high    
-        
+                high = mid - 1
+        return high
