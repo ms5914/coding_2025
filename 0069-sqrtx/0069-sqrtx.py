@@ -8,6 +8,8 @@ class Solution:
         low = 2
         high = x // 2
 
+
+        #if you need to find left boundary high = mid , if right boundary low = mid and do biased up in mid
         while low < high:
             mid = low + (high - low + 1) // 2
 
