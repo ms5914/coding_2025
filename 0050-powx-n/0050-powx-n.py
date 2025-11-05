@@ -5,14 +5,20 @@ class Solution:
         if n<0:
             n = -1*n
             x = 1.0/x
-        result = 1
-        while n>0:
+        to_multiply_in_the_end = 1
+        while n>1:
+            
+            # every time accumulate what to multiply in the end for odd powers
+            #ex: 2^9 is equal to 2^8 * (2) .. put that (2) in to_multiply_in_the_end and make the power even again by doing n = n-1
             if n%2 == 1:
                 n = n-1
-                result = result*x
+                to_multiply_in_the_end = to_multiply_in_the_end*x
     
             n = n//2
             x = x*x
-        return result
+        return to_multiply_in_the_end*x
+    
+    
+    
 
         
