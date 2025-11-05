@@ -18,3 +18,6 @@ class Solution:
             else:
                 high = mid - 1
         return high
+
+
+## https://gemini.google.com/share/b2a2d9e9981a check out this link for binary search patterns
