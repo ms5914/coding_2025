@@ -10,7 +10,7 @@ class Solution:
         # Special case: overflow.
         if dividend == MIN_INT and divisor == -1:
             return MAX_INT
-            
+
         num_negatives = 0
         if dividend < 0:
             num_negatives+=1
@@ -23,10 +23,8 @@ class Solution:
         key = divisor
         count = 0
         while dividend<=key:
-            print("outer", dividend, key)
             times = 1
             while dividend <= key+key and key>pow(-2, 31)//2:
-                print(dividend, key)
                 times+=times
                 key += key
             dividend -= key
