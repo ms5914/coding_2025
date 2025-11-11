@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ms5914/coding_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ms5914/coding_2025/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/ms5914/coding_2025/tree/master/0163-missing-ranges) |
+| [0169-majority-element](https://github.com/ms5914/coding_2025/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ms5914/coding_2025/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ms5914/coding_2025/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ms5914/coding_2025/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ms5914/coding_2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ms5914/coding_2025/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ms5914/coding_2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ms5914/coding_2025/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/ms5914/coding_2025/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ms5914/coding_2025/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ms5914/coding_2025/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ms5914/coding_2025/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ms5914/coding_2025/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
