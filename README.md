@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
 | [0251-flatten-2d-vector](https://github.com/ms5914/coding_2025/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
+| [0277-find-the-celebrity](https://github.com/ms5914/coding_2025/tree/master/0277-find-the-celebrity) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## String
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/ms5914/coding_2025/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 ## Memoization
 |  |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
+## Graph
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/ms5914/coding_2025/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
