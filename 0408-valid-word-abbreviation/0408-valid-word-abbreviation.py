@@ -1,27 +1,22 @@
-class Solution(object):
-    def validWordAbbreviation(self, word, abbr):
-        """
-        :type word: str
-        :type abbr: str
-        :rtype: bool
-        """
-        w, a = 0, 0
+class Solution:
+    def validWordAbbreviation(self, word: str, abbr: str) -> bool:
+        i, j = 0, 0
 
-        while w < len(word) and a < len(abbr):
-            if word[w] == abbr[a]:
-                w+=1
-                a+=1
-            elif abbr[a].isdigit():
-                if int(abbr[a]) == 0:
-                    return False
-                s = 0
-                while a<len(abbr) and abbr[a].isdigit():
-                    s = s*10+(ord(abbr[a])-ord('0'))
-                    a+=1
-                w+=s
-
-            else:
+        while i<len(word) and j<len(abbr):
+            s = 0
+            if abbr[j] == "0":
                 return False
-        return a == len(abbr) and w == len(word)
-    
+            while j< len(abbr) and abbr[j].isnumeric():
+                s = s*10 + int(abbr[j])
+                j+=1
+            i+=s
+            if i<len(word) and j<len(abbr):
+                if word[i] != abbr[j]:
+                    return False
+                i+=1
+                j+=1
+        return i == len(word) and j== len(abbr)
+
                 
+
+        
