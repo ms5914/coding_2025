@@ -1,42 +1,30 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-class Solution(object):
-    def verticalOrder(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: List[List[int]]
-        """
-        result = []
-        if not root:
-            return result
-        
-        min_key = float("inf")
-        max_key = float("-inf")
-        hm = defaultdict(list)
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+from collections import defaultdict
+class Solution:
+    def verticalOrder(self, root: TreeNode) -> List[List[int]]:
+        if root is None:
+            return []
 
-        q = deque()
-        q.append((0, root))
-        while q:
-            index, node = q.popleft()
-            min_key = min(min_key, index)
-            max_key = max(max_key, index)
-            hm[index].append(node.val)
+        columnTable = defaultdict(list)
+        min_column = max_column = 0
+        queue = deque([(root, 0)])
+        columnTable[0].append(root.val)
+
+        while queue:
+            node, column = queue.popleft()
+            min_column = min(min_column, column)
+            max_column = max(max_column, column)        
             if node.left:
-                q.append((index-1, node.left))
+                columnTable[column-1].append(node.left.val)
+                queue.append((node.left, column - 1))
             if node.right:
-                q.append((index+1, node.right))
-        
-        for key in range(min_key, max_key+1):
-            if key in hm:
-                result.append(hm[key])
-        return result
+                columnTable[column+1].append(node.right.val)
+                queue.append((node.right, column + 1))
 
-            
-
-
-
+        return [columnTable[x] for x in range(min_column, max_column + 1)]
         
