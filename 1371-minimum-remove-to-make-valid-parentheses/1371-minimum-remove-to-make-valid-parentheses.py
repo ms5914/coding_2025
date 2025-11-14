@@ -1,19 +1,30 @@
-class Solution(object):
-    def minRemoveToMakeValid(self, s):
-        def delete_invalid_closing(string, open_symbol, close_symbol):
-            sb = []
-            balance = 0
-            for c in string:
-                if c == open_symbol:
-                    balance += 1
-                if c == close_symbol:
-                    if balance == 0:
-                        continue
-                    balance -= 1
-                sb.append(c)
-            return "".join(sb)
-        # Note that s[::-1] gets the reverse of s.
-        s = delete_invalid_closing(s[::-1], ")", "(")
-        s = delete_invalid_closing(s[::-1], "(", ")")
+class Solution:
+    def minRemoveToMakeValid(self, s: str) -> str:
+        st = []
+        indexes_to_remove = set()
+        for i, ch in enumerate(s):
+            if ch == "(":
+                st.append((ch, i))
+            elif ch == ")":
+                if st and st[-1][0] == "(":
+                    st.pop()
+                else:
+                    indexes_to_remove.add(i)
         
-        return s
+        for ch, i in st:
+            indexes_to_remove.add(i)
+        
+        result = []
+        for i,ch in enumerate(s):
+            if not i in indexes_to_remove:
+                result.append(ch)
+        
+        return "".join(result)
+
+
+
+        
+        
+
+
+        
