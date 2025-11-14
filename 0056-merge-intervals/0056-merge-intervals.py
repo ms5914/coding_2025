@@ -6,7 +6,7 @@ class Solution:
         
         for interval in intervals:
             if st and st[-1][1] >= interval[0]:
-                interval[0] = min(st[-1][0], interval[0])
+                interval[0] = st[-1][0]
                 interval[1] = max(st[-1][1], interval[1])
                 st.pop()
             st.append(interval)
