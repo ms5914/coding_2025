@@ -8,23 +8,14 @@ class Node:
         self.parent = None
 """
 
-class Solution(object):
-    def lowestCommonAncestor(self, p, q):
-        """
-        :type node: Node
-        :rtype: Node
-        """
-        if p == q:
-            return p
+class Solution:
+    def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
         headA = p
         headB = q
 
-        while p != q:
-            p = p.parent or headB
-            q = q.parent or headA
-        return p
-
-            
-
+        while headA != headB:
+            headA = headA.parent if headA.parent else q
+            headB = headB.parent if headB.parent else p
         
+        return headA
         
