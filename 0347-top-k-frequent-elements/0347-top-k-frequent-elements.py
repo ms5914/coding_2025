@@ -6,7 +6,7 @@ class Solution:
         unique_n = len(unique)
 
         def partition(left, right):
-            if left>=right:
+            if left>right:
                 return
             index = random.randint(left, right)
             index_freq = count_map[unique[index]]
@@ -21,7 +21,7 @@ class Solution:
             return left_index
         
         def find_k_frequent(left, right):
-            if left >= right:
+            if left > right:
                 return
             piv_index = partition(left, right)
             if index == unique_n-k:
