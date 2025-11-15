@@ -40,13 +40,10 @@ class Solution:
                     for k in range(len(dx)):
                         new_i = i + dx[k]
                         new_j = j + dy[k]
-                        # print(new_i, new_j)
                         if new_i >= 0 and new_i < m and new_j >= 0 and new_j < n and grid[new_i][new_j] == 1:
-                            # print(new_i, new_j)
                             new_coord = new_i * n + new_j
                             dsu.union(new_coord, curr_coord)
 
-        print(dsu.island_sizes)
         max_size = max(dsu.island_sizes)
         for i in range(m):
             for j in range(n):
