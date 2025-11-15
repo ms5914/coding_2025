@@ -2,7 +2,7 @@
 # This is the interface that allows for creating nested lists.
 # You should not implement it, or speculate about its implementation
 # """
-#class NestedInteger(object):
+#class NestedInteger:
 #    def __init__(self, value=None):
 #        """
 #        If value is not specified, initializes an empty list.
@@ -41,26 +41,21 @@
 #        :rtype List[NestedInteger]
 #        """
 
-class Solution(object):
-    def depthSum(self, nestedList):
-        """
-        :type nestedList: List[NestedInteger]
-        :rtype: int
-        """
-        def find_sum(nested_list, depth):
-            if not nested_list:
-                return 0
-            
-            s = 0
-            for child in nested_list:
-                if not child.isInteger(): 
-                    s+=find_sum(child.getList(), depth+1)
-                else:
-                    s+=depth*child.getInteger()
-            return s
+class Solution:
+    def depthSum(self, nestedList: List[NestedInteger]) -> int:
+
+        def find_sum(nestedList, depth):
+            if nestedList.isInteger():
+                return depth * nestedList.getInteger()
+            else:
+                result = 0
+                for li in nestedList.getList():
+                    result += find_sum(li, depth+1)
+            return result
         
-        return find_sum(nestedList, 1)
-
-
-
+        ans = 0
+        for li in nestedList:
+            ans+=find_sum(li, 1)
+        return ans
+                    
         
