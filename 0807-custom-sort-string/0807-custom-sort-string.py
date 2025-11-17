@@ -1,7 +1,6 @@
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
         count_letters = Counter(s)
-
         result_str = []
         for ch in order:
             if ch in count_letters:
