@@ -6,7 +6,6 @@ class Solution:
         max_len = 0
 
         while right<len(nums):
-            print("right", left, right)
             if nums[right] == 0:
                 zeros+=1
             while zeros>k:
