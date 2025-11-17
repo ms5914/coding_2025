@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
@@ -302,12 +303,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 ## Randomized
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ms5914/coding_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
+| [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Design
 |  |
