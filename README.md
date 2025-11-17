@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0408-valid-word-abbreviation](https://github.com/ms5914/coding_2025/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
+| [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
 ## Tree
