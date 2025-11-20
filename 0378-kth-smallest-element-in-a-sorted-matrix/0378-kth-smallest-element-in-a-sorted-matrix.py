@@ -1,5 +1,7 @@
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+        
+        #technique 1 is using heapq
         min_heap = []
         n = len(matrix)
 
@@ -14,6 +16,8 @@ class Solution:
                 heapq.heappush(min_heap, (matrix[row+1][col], row+1, col))
             k-=1
         return ele
+
+        #technique 2 is using binary search on the range of numbers [min, max] and counting the num of elements less than mid and then recaliberating low / high to shorten the search space. 
         # def find_smaller_and_equal(mid):
         #     i = len(matrix)-1
         #     j = 0
