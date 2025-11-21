@@ -6,7 +6,8 @@ class Solution:
         prev_sign = "+"
         result = 0
         i = 0
-
+# prev_num  prev_sign  curr_num     ch
+# a         +           b            *       c
         #prev_num is the last expression evaluated (so if the prev sign is +/-, just add that last evaluation to result and prepare new evaluation)
         for ch in s:
             print(ch)
