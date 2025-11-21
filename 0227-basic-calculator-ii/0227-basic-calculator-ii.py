@@ -1,43 +1,30 @@
-class Solution(object):
-    def calculate(self, s):
-        """
-        """
-        prev_sign = '+'
-        prev = 0
-        curr = 0
+class Solution:
+    def calculate(self, s: str) -> int:
+        s = s + "$"
+        prev_num = 0
+        curr_num = 0
+        prev_sign = "+"
         result = 0
-
-        for ch in s+'$':
-            if ch in "+-/*$":
-                if prev_sign == "+":
-                    result = result+prev
-                    prev = curr
-                elif prev_sign == '-':
-                    result = result+prev
-                    prev = -curr
-                elif prev_sign == '/':
-                    prev = int(prev/float(curr))
+        i = 0
+        for ch in s:
+            print(ch)
+            if ch.isdigit():
+                curr_num = curr_num*10+int(ch)
+            elif ch in "+-*/$" :
+                if prev_sign in "+-":
+                    result+=prev_num
+                    prev_num = curr_num if prev_sign == "+" else -curr_num
                 elif prev_sign == "*":
-                    prev = prev*curr
-                
+                    prev_num = prev_num*curr_num
+                elif prev_sign == "/":
+                    prev_num = int(prev_num/curr_num)
+                curr_num = 0
                 prev_sign = ch
-                curr = 0
-            
-            elif ch.isdigit():
-                curr = curr*10+int(ch)
+
+            i+=1
         
-        return result+prev
-
-                
-            
-      
-
-
-
-            
-                
-                
+        return result+prev_num
                 
 
 
-        
+         
