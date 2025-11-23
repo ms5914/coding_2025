@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
 ## Array
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
+| [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
 ## Sliding Window
 |  |
