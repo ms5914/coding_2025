@@ -6,23 +6,20 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-        
         result = 0
-
-        def find_sum(root, curr_sum):
-            
+       
+        def find_number(root, number):
             nonlocal result
+            if not root:
+                return
+            number = number*10+root.val
             if not root.left and not root.right:
-                result+=curr_sum
+                result+=number
             else:
-                if root.left:
-                    find_sum(root.left, curr_sum*10+root.left.val)
-                if root.right:
-                    find_sum(root.right, curr_sum*10+root.right.val)
-            
-        find_sum(root, root.val)
-        return result
-                
+                find_number(root.left, number)
+                find_number(root.right, number)
         
+        find_number(root, 0)
+        return result
+            
+            
