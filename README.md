@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ms5914/coding_2025/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ms5914/coding_2025/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ms5914/coding_2025/tree/master/0078-subsets) |
+| [0489-robot-room-cleaner](https://github.com/ms5914/coding_2025/tree/master/0489-robot-room-cleaner) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0277-find-the-celebrity](https://github.com/ms5914/coding_2025/tree/master/0277-find-the-celebrity) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
+| [0489-robot-room-cleaner](https://github.com/ms5914/coding_2025/tree/master/0489-robot-room-cleaner) |
 ## Memoization
 |  |
 | ------- |
