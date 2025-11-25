@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ms5914/coding_2025/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ms5914/coding_2025/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -501,4 +503,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ms5914/coding_2025/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->
