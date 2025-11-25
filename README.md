@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/ms5914/coding_2025/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ms5914/coding_2025/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
 | [0498-diagonal-traverse](https://github.com/ms5914/coding_2025/tree/master/0498-diagonal-traverse) |
+| [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0766-toeplitz-matrix](https://github.com/ms5914/coding_2025/tree/master/0766-toeplitz-matrix) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
+| [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 ## Recursion
 |  |
