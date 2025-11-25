@@ -25,7 +25,7 @@ class Solution:
                 step+=1
             
             if root_left.right == root:
-                root_left.right = None
+                #root_left.right = None
                 if not root_left.left:
                     result+=curr_num
                 root = root.right
