@@ -26,14 +26,9 @@ class Solution:
                     break
             prev = curr
             curr = curr.next
-        
-        if insert:
-            new_node = Node(insertVal, curr)
-            prev.next = new_node
-        
-        else:
-            new_node = Node(insertVal, curr)
-            prev.next = new_node
+
+        new_node = Node(insertVal, curr)
+        prev.next = new_node
         return head
                 
                 
