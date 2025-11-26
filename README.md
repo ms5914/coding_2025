@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ms5914/coding_2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ms5914/coding_2025/tree/master/0328-odd-even-linked-list) |
+| [0708-insert-into-a-sorted-circular-linked-list](https://github.com/ms5914/coding_2025/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 ## Interactive
 |  |
 | ------- |
