@@ -17,6 +17,7 @@ class Solution:
                 
                 # Calculate which previous remainder would result in current remainder 'r' if we add 'num'
                 prev_remainder = (r - num) % 3
+                 
                 include_num = dp[i-1][prev_remainder] + num
                 
                 dp[i][r] = max(exclude_num, include_num)
