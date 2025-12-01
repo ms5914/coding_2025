@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ms5914/coding_2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ms5914/coding_2025/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/ms5914/coding_2025/tree/master/0636-exclusive-time-of-functions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ms5914/coding_2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
