@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ms5914/coding_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/ms5914/coding_2025/tree/master/0636-exclusive-time-of-functions) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/ms5914/coding_2025/tree/master/0636-exclusive-time-of-functions) |
 | [0766-toeplitz-matrix](https://github.com/ms5914/coding_2025/tree/master/0766-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
