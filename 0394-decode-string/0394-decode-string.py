@@ -1,7 +1,5 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        
-
         i = 0
         def decode(s):
             result = []
