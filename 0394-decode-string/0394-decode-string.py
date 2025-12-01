@@ -1,35 +1,72 @@
 class Solution:
     def decodeString(self, s: str) -> str:
+
+
+        st = []
         i = 0
-        result = []
         while i < len(s):
-            open_count = 0
-            num = 0
-            internal_li = []
-            first_str = []
+            if s[i] == "]":
+                inside_list = []
+                while st and st[-1] != "[":
+                    ch = st.pop()
+                    inside_list.append(ch)
+                st.pop()
+                inside_str = "".join(inside_list[::-1])
+                
+                number_list = []
+                while st and st[-1].isdigit():
+                    number_list.append(st.pop())
+                
+                number = int("".join(number_list[::-1]))
 
-            while i<len(s) and not s[i].isdigit():
-                first_str.append(s[i])
-                i+=1
-            result.append("".join(first_str))
-
-            while i<len(s) and s[i].isdigit():
-                num = num*10+int(s[i])
-                i+=1
+                to_push_list = []
+                for k in range(number):
+                    to_push_list.append(inside_str)
+                
+                st.append("".join(to_push_list))
+            else:
+                st.append(s[i])
             i+=1
-            open_count+=1
-            while open_count != 0 and i<len(s):
-                internal_li.append(s[i])
-                if s[i] == "[":
-                    open_count+=1
-                elif s[i] == "]":
-                    open_count-=1
-                i+=1
+        
+        return "".join(st)
+        
+
+
+                
+
+
+
+
+
+        # i = 0
+        # result = []
+        # while i < len(s):
+        #     open_count = 0
+        #     num = 0
+        #     internal_li = []
+        #     first_str = []
+        #     while i<len(s) and not s[i].isdigit():
+        #         first_str.append(s[i])
+        #         i+=1
+        #     result.append("".join(first_str))
+
+        #     while i<len(s) and s[i].isdigit():
+        #         num = num*10+int(s[i])
+        #         i+=1
+        #     i+=1
+        #     open_count+=1
+        #     while open_count != 0 and i<len(s):
+        #         internal_li.append(s[i])
+        #         if s[i] == "[":
+        #             open_count+=1
+        #         elif s[i] == "]":
+        #             open_count-=1
+        #         i+=1
             
-            decoded_result = self.decodeString("".join(internal_li[:-1]))
-            for k in range(num):
-                result.append(decoded_result)
-        return "".join(result)
+        #     decoded_result = self.decodeString("".join(internal_li[:-1]))
+        #     for k in range(num):
+        #         result.append(decoded_result)
+        # return "".join(result)
             
                 
                 
