@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/ms5914/coding_2025/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ms5914/coding_2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Heap (Priority Queue)
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Backtracking
 |  |
