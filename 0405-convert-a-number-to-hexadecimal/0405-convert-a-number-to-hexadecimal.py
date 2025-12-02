@@ -6,6 +6,8 @@ class Solution:
 
         bin_to_hex = ["0", "1", "2", "3", "4", "5" , "6", "7", "8", "9", "a", "b", "c", "d", "e", "f"]
         result = []
+
+        #anding with 32 1s integers in python can be infinite something like that to fix that (this is not requried in java)
         num = num & 0xffffffff
         while num:
             last_four = num & 15
