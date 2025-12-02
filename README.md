@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ms5914/coding_2025/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ms5914/coding_2025/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ms5914/coding_2025/tree/master/0394-decode-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/ms5914/coding_2025/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/ms5914/coding_2025/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ms5914/coding_2025/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ms5914/coding_2025/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ms5914/coding_2025/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/ms5914/coding_2025/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ms5914/coding_2025/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ms5914/coding_2025/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/ms5914/coding_2025/tree/master/0277-find-the-celebrity) |
 ## Doubly-Linked List
 |  |
@@ -546,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ms5914/coding_2025/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
