@@ -14,6 +14,7 @@ class Solution:
                     in_degree[word2[j]]+=1
                     adj_list[word1[i]].append(word2[j])
             
+            #this check is very important don't forget about this. If second word is a prefix of first word the ordering is not possible and you should return an empty string right then
             elif len(word2)<len(word1):
                 return ""
             
