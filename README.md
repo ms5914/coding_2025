@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ms5914/coding_2025/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ms5914/coding_2025/tree/master/0334-increasing-triplet-subsequence) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ms5914/coding_2025/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/ms5914/coding_2025/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ms5914/coding_2025/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ms5914/coding_2025/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ms5914/coding_2025/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ms5914/coding_2025/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/ms5914/coding_2025/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ms5914/coding_2025/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
