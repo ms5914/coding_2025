@@ -10,7 +10,6 @@ class Solution:
             if char_count>max_count:
                 max_count = char_count
                 result = list(indexes)
-
             if i>=len(arr):
                 return
             
