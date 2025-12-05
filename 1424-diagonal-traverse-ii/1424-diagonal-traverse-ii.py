@@ -4,15 +4,15 @@ class Solution:
         ans = []
         dq = deque()
         dq.append((0, 0))
-        ans.append(nums[0][0])
+        # ans.append(nums[0][0])
         while dq:
             row, col = dq.popleft()
+            ans.append(nums[row][col])
             if col == 0 and row+1<len(nums):
-                ans.append(nums[row+1][col])
                 dq.append((row+1, col))
             if col+1 < len(nums[row]):
                 dq.append((row, col+1))
-                ans.append(nums[row][col+1])
+                
         
         return ans
             
