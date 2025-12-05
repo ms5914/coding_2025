@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
+| [0824-goat-latin](https://github.com/ms5914/coding_2025/tree/master/0824-goat-latin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ms5914/coding_2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ms5914/coding_2025/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
