@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/ms5914/coding_2025/tree/master/0636-exclusive-time-of-functions) |
 | [0766-toeplitz-matrix](https://github.com/ms5914/coding_2025/tree/master/0766-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/ms5914/coding_2025/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
+| [0875-koko-eating-bananas](https://github.com/ms5914/coding_2025/tree/master/0875-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/ms5914/coding_2025/tree/master/1539-kth-missing-positive-number) |
