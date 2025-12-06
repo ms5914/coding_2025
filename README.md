@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [0824-goat-latin](https://github.com/ms5914/coding_2025/tree/master/0824-goat-latin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ms5914/coding_2025/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1216-valid-palindrome-iii](https://github.com/ms5914/coding_2025/tree/master/1216-valid-palindrome-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ms5914/coding_2025/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
+| [1216-valid-palindrome-iii](https://github.com/ms5914/coding_2025/tree/master/1216-valid-palindrome-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Backtracking
