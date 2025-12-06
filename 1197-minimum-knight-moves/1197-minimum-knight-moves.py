@@ -1,5 +1,7 @@
 class Solution:
     def minKnightMoves(self, x: int, y: int) -> int:
+        x = abs(x)
+        y = abs(y)
         @lru_cache(maxsize=None)
         def dfs(x,y):
             if x == 0 and y ==0:
