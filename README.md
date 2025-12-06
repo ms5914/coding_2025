@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ms5914/coding_2025/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ms5914/coding_2025/tree/master/0242-valid-anagram) |
+| [0247-strobogrammatic-number-ii](https://github.com/ms5914/coding_2025/tree/master/0247-strobogrammatic-number-ii) |
 | [0269-alien-dictionary](https://github.com/ms5914/coding_2025/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ms5914/coding_2025/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
+| [0247-strobogrammatic-number-ii](https://github.com/ms5914/coding_2025/tree/master/0247-strobogrammatic-number-ii) |
 | [0251-flatten-2d-vector](https://github.com/ms5914/coding_2025/tree/master/0251-flatten-2d-vector) |
 | [0253-meeting-rooms-ii](https://github.com/ms5914/coding_2025/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/ms5914/coding_2025/tree/master/0268-missing-number) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ms5914/coding_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ms5914/coding_2025/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ms5914/coding_2025/tree/master/0234-palindrome-linked-list) |
+| [0247-strobogrammatic-number-ii](https://github.com/ms5914/coding_2025/tree/master/0247-strobogrammatic-number-ii) |
 | [0326-power-of-three](https://github.com/ms5914/coding_2025/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/ms5914/coding_2025/tree/master/0394-decode-string) |
 ## Monotonic Stack
