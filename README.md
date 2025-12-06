@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ms5914/coding_2025/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ms5914/coding_2025/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ms5914/coding_2025/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ms5914/coding_2025/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ms5914/coding_2025/tree/master/0160-intersection-of-two-linked-lists) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ms5914/coding_2025/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ms5914/coding_2025/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ms5914/coding_2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/ms5914/coding_2025/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ms5914/coding_2025/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ms5914/coding_2025/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ms5914/coding_2025/tree/master/0160-intersection-of-two-linked-lists) |
