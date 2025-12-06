@@ -1,25 +1,19 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
         
-        def square_sum(p):
-            t = 0
-            while p>0:
-                num = p%10
-                t = t+pow(num,2)
-                p = p//10
-            return t
+        def get_next_number(n):
+            sum_res = 0
+            while n:
+                n, remainder = divmod(n, 10)
+                sum_res += remainder**2
+            return sum_res
         
-        s = set()
-        while n not in s:
-            s.add(n)
-            n = square_sum(n)
-            if n == 1:
-                return True
-            
-            
-        return False
+        slow_ptr, fast_pointer = n, get_next_number(n)
+
+        while slow_ptr != fast_pointer and fast_pointer !=1:
+            slow_ptr = get_next_number(slow_ptr)
+            fast_pointer = get_next_number(get_next_number(fast_pointer))
         
-    
-    
-        
-        
+        return fast_pointer == 1
+
+
