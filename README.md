@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/ms5914/coding_2025/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ms5914/coding_2025/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/ms5914/coding_2025/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/ms5914/coding_2025/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ms5914/coding_2025/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ms5914/coding_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ms5914/coding_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ms5914/coding_2025/tree/master/0162-find-peak-element) |
 | [0163-missing-ranges](https://github.com/ms5914/coding_2025/tree/master/0163-missing-ranges) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ms5914/coding_2025/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ms5914/coding_2025/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ms5914/coding_2025/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ms5914/coding_2025/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ms5914/coding_2025/tree/master/0160-intersection-of-two-linked-lists) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ms5914/coding_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ms5914/coding_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ms5914/coding_2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ms5914/coding_2025/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ms5914/coding_2025/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ms5914/coding_2025/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
 ## Union Find
 |  |
 | ------- |
