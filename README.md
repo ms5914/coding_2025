@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Depth-First Search
 |  |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ms5914/coding_2025/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
+| [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1197-minimum-knight-moves](https://github.com/ms5914/coding_2025/tree/master/1197-minimum-knight-moves) |
+| [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search
 |  |
 | ------- |
