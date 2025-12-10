@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
 | [0498-diagonal-traverse](https://github.com/ms5914/coding_2025/tree/master/0498-diagonal-traverse) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/ms5914/coding_2025/tree/master/0270-closest-binary-search-tree-value) |
 | [0278-first-bad-version](https://github.com/ms5914/coding_2025/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0875-koko-eating-bananas](https://github.com/ms5914/coding_2025/tree/master/0875-koko-eating-bananas) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ms5914/coding_2025/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
@@ -469,11 +472,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/ms5914/coding_2025/tree/master/0346-moving-average-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 ## Binary Search Tree
 |  |
 | ------- |
