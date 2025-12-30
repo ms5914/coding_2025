@@ -16,6 +16,7 @@ class Solution:
 
 
         #you can also use a matrix of size 26*26. Each element showing the count of word a[i]+a[j]
+        #diagonals are palindromic words and only traverse over upper / lower triangle to not double count
 
 
         
