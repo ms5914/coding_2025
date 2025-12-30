@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1216-valid-palindrome-iii](https://github.com/ms5914/coding_2025/tree/master/1216-valid-palindrome-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ms5914/coding_2025/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ms5914/coding_2025/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ms5914/coding_2025/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ms5914/coding_2025/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ms5914/coding_2025/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
