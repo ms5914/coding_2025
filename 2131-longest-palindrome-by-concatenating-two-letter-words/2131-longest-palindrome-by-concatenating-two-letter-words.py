@@ -15,4 +15,7 @@ class Solution:
         return words_taken_count*2 + 2 if centre else words_taken_count*2
 
 
+        #you can also use a matrix of size 26*26. Each element showing the count of word a[i]+a[j]
+
+
         
