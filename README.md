@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ms5914/coding_2025/tree/master/0766-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/ms5914/coding_2025/tree/master/0875-koko-eating-bananas) |
+| [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [0986-interval-list-intersections](https://github.com/ms5914/coding_2025/tree/master/0986-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
+| [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/ms5914/coding_2025/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/ms5914/coding_2025/tree/master/1146-snapshot-array) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ms5914/coding_2025/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
+| [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ms5914/coding_2025/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## String Matching
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ms5914/coding_2025/tree/master/0173-binary-search-tree-iterator) |
 | [0251-flatten-2d-vector](https://github.com/ms5914/coding_2025/tree/master/0251-flatten-2d-vector) |
+| [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 ## Simulation
 |  |
 | ------- |
