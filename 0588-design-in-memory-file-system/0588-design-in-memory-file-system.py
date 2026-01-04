@@ -29,6 +29,8 @@ class FileSystem:
         temp=self.root_node
         for p in path.split("/"):
             if p:
+                if not temp.children[p]:
+                    temp.children[p] = Trie()
                 temp = temp.children[p]            
         
     def addContentToFile(self, filePath: str, content: str) -> None:
