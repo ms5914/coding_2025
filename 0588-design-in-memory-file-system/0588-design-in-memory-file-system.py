@@ -1,6 +1,5 @@
 class Trie:
-    def __init__(self, root):
-        self.root = root
+    def __init__(self):
         self.children = {}
         self.isFile = False
         self.content = []
@@ -8,7 +7,7 @@ class Trie:
 class FileSystem:
 
     def __init__(self):
-        self.root_node = Trie("/")
+        self.root_node = Trie()
 
     def ls(self, path: str) -> List[str]:
         temp=self.root_node
@@ -31,7 +30,7 @@ class FileSystem:
         for p in path.split("/"):
             if p:
                 if p not in temp.children:
-                    temp.children[p] = Trie(p)
+                    temp.children[p] = Trie()
                 temp = temp.children[p]            
         
     def addContentToFile(self, filePath: str, content: str) -> None:
@@ -43,7 +42,7 @@ class FileSystem:
             if segment:
                 temp = temp.children[segment]
         if file_name not in temp.children:
-            temp.children[file_name] = Trie(file_name)
+            temp.children[file_name] = Trie()
         temp.children[file_name].content.append(content)
         temp.children[file_name].isFile = True
         
