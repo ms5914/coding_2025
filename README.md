@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ms5914/coding_2025/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/ms5914/coding_2025/tree/master/0408-valid-word-abbreviation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ms5914/coding_2025/tree/master/0680-valid-palindrome-ii) |
 | [0751-ip-to-cidr](https://github.com/ms5914/coding_2025/tree/master/0751-ip-to-cidr) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ms5914/coding_2025/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/ms5914/coding_2025/tree/master/0582-kill-process) |
+| [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ms5914/coding_2025/tree/master/0981-time-based-key-value-store) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
+| [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
 | [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/ms5914/coding_2025/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/ms5914/coding_2025/tree/master/1146-snapshot-array) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ms5914/coding_2025/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ms5914/coding_2025/tree/master/0139-word-break) |
+| [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
 ## Linked List
 |  |
 | ------- |
