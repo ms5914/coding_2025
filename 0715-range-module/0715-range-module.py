@@ -1,6 +1,7 @@
 import bisect
 class RangeModule:
 
+    #remember about half open range [left, right) in al the implementations that is crucial
     def __init__(self):
         self.arr = []
         
