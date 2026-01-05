@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/ms5914/coding_2025/tree/master/1146-snapshot-array) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ms5914/coding_2025/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
+| [2276-count-integers-in-intervals](https://github.com/ms5914/coding_2025/tree/master/2276-count-integers-in-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2276-count-integers-in-intervals](https://github.com/ms5914/coding_2025/tree/master/2276-count-integers-in-intervals) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ms5914/coding_2025/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Topological Sort
 |  |
@@ -687,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ms5914/coding_2025/tree/master/0986-interval-list-intersections) |
+## Segment Tree
+|  |
+| ------- |
+| [2276-count-integers-in-intervals](https://github.com/ms5914/coding_2025/tree/master/2276-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
