@@ -13,5 +13,5 @@ class Solution:
                 res=[]
             characters+=len(word)
             res.append(word)
-        return results+[' '.join(res).ljust(maxWidth)]
+        return results+[' '.join(res) + " "*(maxWidth-len(' '.join(res)))]
         
