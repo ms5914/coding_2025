@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ms5914/coding_2025/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ms5914/coding_2025/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/ms5914/coding_2025/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ms5914/coding_2025/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/ms5914/coding_2025/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ms5914/coding_2025/tree/master/0125-valid-palindrome) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ms5914/coding_2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ms5914/coding_2025/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ms5914/coding_2025/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ms5914/coding_2025/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ms5914/coding_2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ms5914/coding_2025/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ms5914/coding_2025/tree/master/0078-subsets) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ms5914/coding_2025/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
 | [0498-diagonal-traverse](https://github.com/ms5914/coding_2025/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/ms5914/coding_2025/tree/master/2169-simple-bank-system) |
