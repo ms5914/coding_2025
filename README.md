@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
 | [0588-design-in-memory-file-system](https://github.com/ms5914/coding_2025/tree/master/0588-design-in-memory-file-system) |
+| [0715-range-module](https://github.com/ms5914/coding_2025/tree/master/0715-range-module) |
 | [0900-rle-iterator](https://github.com/ms5914/coding_2025/tree/master/0900-rle-iterator) |
 | [0981-time-based-key-value-store](https://github.com/ms5914/coding_2025/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/ms5914/coding_2025/tree/master/1146-snapshot-array) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0715-range-module](https://github.com/ms5914/coding_2025/tree/master/0715-range-module) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2276-count-integers-in-intervals](https://github.com/ms5914/coding_2025/tree/master/2276-count-integers-in-intervals) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ms5914/coding_2025/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -692,5 +694,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/ms5914/coding_2025/tree/master/0715-range-module) |
 | [2276-count-integers-in-intervals](https://github.com/ms5914/coding_2025/tree/master/2276-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
