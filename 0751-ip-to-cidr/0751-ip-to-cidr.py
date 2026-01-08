@@ -1,13 +1,9 @@
 class Solution:
     def ipToCIDR(self, ip: str, n: int) -> List[str]:
-
         def ip_to_bin(ip):
-            binary_str = "".join(["{:08b}".format(int(segment)) for segment in ip.split(".")])
-            return binary_str
-        
-        def bin_to_ip(binary):
-            ip = ".".join([str(int(binary[i:i+8], 2)) for i in range(0, 32, 8)])
-            return ip
+            return "".join(["{:08b}".format(int(x)) for x in ip.split(".")])
+        def bin_to_ip(bin):
+            return ".".join(str(int(bin[i:i+8], 2)) for i in range(0, 32, 8))
 
         result = []
         current_ip = ip_to_bin(ip)
