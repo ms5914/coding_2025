@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ms5914/coding_2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ms5914/coding_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/ms5914/coding_2025/tree/master/0173-binary-search-tree-iterator) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ms5914/coding_2025/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ms5914/coding_2025/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ms5914/coding_2025/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ms5914/coding_2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ms5914/coding_2025/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ms5914/coding_2025/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ms5914/coding_2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1762-buildings-with-an-ocean-view) |
 | [1909-buildings-with-an-ocean-view](https://github.com/ms5914/coding_2025/tree/master/1909-buildings-with-an-ocean-view) |
 ## Sliding Window
