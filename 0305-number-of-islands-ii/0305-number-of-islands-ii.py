@@ -16,7 +16,6 @@ class DisjointSet:
             self.sizes[m]+=self.sizes[n]
     
     def find_parent(self, i):
-        print(i)
         if self.parent[i] != i:
             self.parent[i] = self.find_parent(self.parent[i])
         return self.parent[i]
@@ -41,7 +40,6 @@ class Solution:
                     new_j = j+dy[k]
 
                     if new_i >=0 and new_i <m and new_j >=0 and new_j < n and matrix[new_i][new_j] == 1:
-                        print(new_i, new_j)
                         different_islands.add(dsu.find_parent(new_i*n+new_j))
                         dsu.union(new_i*n + new_j, i*n+j)
                 
