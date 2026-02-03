@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/ms5914/coding_2025/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ms5914/coding_2025/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/ms5914/coding_2025/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/ms5914/coding_2025/tree/master/0498-diagonal-traverse) |
 | [0528-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ms5914/coding_2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ms5914/coding_2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/ms5914/coding_2025/tree/master/0427-construct-quad-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/ms5914/coding_2025/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ms5914/coding_2025/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0427-construct-quad-tree](https://github.com/ms5914/coding_2025/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0582-kill-process](https://github.com/ms5914/coding_2025/tree/master/0582-kill-process) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ms5914/coding_2025/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/ms5914/coding_2025/tree/master/0286-walls-and-gates) |
 | [0348-design-tic-tac-toe](https://github.com/ms5914/coding_2025/tree/master/0348-design-tic-tac-toe) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/ms5914/coding_2025/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/ms5914/coding_2025/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/ms5914/coding_2025/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/ms5914/coding_2025/tree/master/0766-toeplitz-matrix) |
