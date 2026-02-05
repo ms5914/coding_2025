@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1216-valid-palindrome-iii](https://github.com/ms5914/coding_2025/tree/master/1216-valid-palindrome-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ms5914/coding_2025/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ms5914/coding_2025/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ms5914/coding_2025/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ms5914/coding_2025/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ms5914/coding_2025/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ms5914/coding_2025/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/ms5914/coding_2025/tree/master/0807-custom-sort-string) |
 | [0981-time-based-key-value-store](https://github.com/ms5914/coding_2025/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/ms5914/coding_2025/tree/master/1146-snapshot-array) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ms5914/coding_2025/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ms5914/coding_2025/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ms5914/coding_2025/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ms5914/coding_2025/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ms5914/coding_2025/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/ms5914/coding_2025/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/ms5914/coding_2025/tree/master/1046-max-consecutive-ones-iii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ms5914/coding_2025/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ms5914/coding_2025/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Randomized
 |  |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ms5914/coding_2025/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0751-ip-to-cidr](https://github.com/ms5914/coding_2025/tree/master/0751-ip-to-cidr) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ms5914/coding_2025/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ms5914/coding_2025/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
