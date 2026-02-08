@@ -32,7 +32,7 @@ class Solution:
             if current_vacation_spot == dst:
                 self.cheapest = min(self.cheapest, cost)
                 continue
-            if self.cheapest!=float('inf') and self.cheapest < cost:
+            if self.cheapest < cost:
                 continue
             else:
                 for n in adj_list[current_vacation_spot]:
