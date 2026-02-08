@@ -31,7 +31,7 @@ class Solution:
                 continue
             if current_vacation_spot == dst:
                 self.cheapest = min(self.cheapest, cost)
-                continue
+                # continue
             else:
                 for n in adj_list[current_vacation_spot]:
                     if n in self.intermediate_cheapest and self.intermediate_cheapest[n]<= cost+prices[(current_vacation_spot,n)]:
