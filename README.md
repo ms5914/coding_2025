@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ms5914/coding_2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ms5914/coding_2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/ms5914/coding_2025/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1424-diagonal-traverse-ii](https://github.com/ms5914/coding_2025/tree/master/1424-diagonal-traverse-ii) |
 ## Quickselect
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ms5914/coding_2025/tree/master/0543-diameter-of-binary-tree) |
 | [0582-kill-process](https://github.com/ms5914/coding_2025/tree/master/0582-kill-process) |
 | [0695-max-area-of-island](https://github.com/ms5914/coding_2025/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/ms5914/coding_2025/tree/master/0975-range-sum-of-bst) |
 | [1302-deepest-leaves-sum](https://github.com/ms5914/coding_2025/tree/master/1302-deepest-leaves-sum) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/ms5914/coding_2025/tree/master/0339-nested-list-weight-sum) |
 | [0582-kill-process](https://github.com/ms5914/coding_2025/tree/master/0582-kill-process) |
 | [0695-max-area-of-island](https://github.com/ms5914/coding_2025/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/ms5914/coding_2025/tree/master/0854-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ms5914/coding_2025/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ms5914/coding_2025/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ms5914/coding_2025/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/ms5914/coding_2025/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1216-valid-palindrome-iii](https://github.com/ms5914/coding_2025/tree/master/1216-valid-palindrome-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ms5914/coding_2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ms5914/coding_2025/tree/master/1418-fair-distribution-of-cookies) |
@@ -726,4 +730,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/ms5914/coding_2025/tree/master/0305-number-of-islands-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ms5914/coding_2025/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
