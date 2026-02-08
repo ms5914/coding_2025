@@ -27,12 +27,10 @@ class Solution:
         while q:
             # for i in range(len(q)):
             current_vacation_spot, stops, cost = q.popleft() 
-            if stops>k:
+            if stops>k or self.cheapest < cost:
                 continue
             if current_vacation_spot == dst:
                 self.cheapest = min(self.cheapest, cost)
-                continue
-            if self.cheapest < cost:
                 continue
             else:
                 for n in adj_list[current_vacation_spot]:
