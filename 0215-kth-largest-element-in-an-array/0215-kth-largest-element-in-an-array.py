@@ -34,7 +34,6 @@ class Solution:
             else:
                 return find_k_largest(nums, p, pivot-1)
             
-            # return nums[n-k]
         
         
         return find_k_largest(nums, 0, n-1)
