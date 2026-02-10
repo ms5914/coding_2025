@@ -16,9 +16,6 @@ class Solution:
                     nums[ind], nums[less_ind] = nums[less_ind], nums[ind]
                     less_ind+=1
             nums[less_ind], nums[r] = nums[r], nums[less_ind]
-            
-            # print(less_ind)
-            # print(nums)
             return less_ind
                 
         
