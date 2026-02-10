@@ -30,11 +30,11 @@ class Solution:
                 return nums[n-k]
             
             elif pivot< n-k:
-                find_k_largest(nums, pivot+1, r)
+                return find_k_largest(nums, pivot+1, r)
             else:
-                find_k_largest(nums, p, pivot-1)
+                return find_k_largest(nums, p, pivot-1)
             
-            return nums[n-k]
+            # return nums[n-k]
         
         
         return find_k_largest(nums, 0, n-1)
