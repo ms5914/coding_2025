@@ -10,4 +10,5 @@ class Solution:
                 subsequence.append(num)
             else:
                 subsequence[index] = num
+        # print(subsequence)
         return len(subsequence)       
